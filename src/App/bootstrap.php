@@ -8,4 +8,4 @@ use Framework\App;
 
 $app = new App();
 
-return $app; 
+return $app;
